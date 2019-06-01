@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588826269842",
+    "firebase_url": "https://reality-code.firebaseio.com",
+    "project_id": "reality-code",
+    "storage_bucket": "reality-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588826269842:android:7fef23340aefc737",
+        "android_client_info": {
+          "package_name": "com.reality_code_anouarcrk9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588826269842-ipc2svn0pvcq8jhbd84aoqs19u805022.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7wFV5Vzoj2gmsi237nkOV_x9y1ZfBG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588826269842-ipc2svn0pvcq8jhbd84aoqs19u805022.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
